@@ -1,0 +1,8 @@
+/* bold：濃い地に強い文字。期限のある募集・短く決めてほしいとき。 */
+:root{--bg:#ffffff;--bg-alt:#f3f2ef;--ink:#16161a;--sub:#5c5c66;--line:#e2e0da;--card:#ffffff;--accent:#d9480f;
+--hero-bg:#16161a;--hero-ink:#ffffff;--chip-bg:#ffd43b;--chip-ink:#16161a;--btn-bg:#d9480f;--btn-ink:#ffffff;
+--btn-shadow:0 4px 0 #8f2f0a;--radius:4px;--radius-s:4px;--radius-btn:6px;--sticky-bg:#16161a}
+.d-bold .hero{padding:56px 0 48px}
+.d-bold .hero h1{font-size:clamp(28px,8vw,46px);font-weight:900}
+.d-bold .sec h2{border-left:6px solid var(--accent);padding-left:12px}
+.d-bold .price{font-size:34px}

@@ -1,0 +1,6 @@
+/* soft：やわらかい色と丸み。習い事・暮らし・女性向けなど、安心感を先に出したいとき。 */
+:root{--bg:#fffdf9;--bg-alt:#fbf3ec;--ink:#3a3330;--sub:#7a6f69;--line:#efe2d6;--card:#ffffff;--accent:#c2665a;
+--hero-bg:#fbefe6;--hero-ink:#3a3330;--chip-bg:#ffffff;--chip-ink:#c2665a;--btn-bg:#c2665a;--btn-ink:#ffffff;
+--btn-shadow:0 3px 10px rgba(194,102,90,.35);--radius:20px;--radius-s:14px;--radius-btn:999px;--sticky-bg:#fffdf9}
+.d-soft .hero h1{font-weight:700}
+.d-soft .card,.d-soft .voice{box-shadow:0 2px 12px rgba(120,80,60,.06);border-color:transparent}

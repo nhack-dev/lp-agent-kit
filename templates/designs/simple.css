@@ -1,0 +1,6 @@
+/* simple：白地の読み物。説明が長い商品・信頼を先に作りたいとき。 */
+:root{--bg:#ffffff;--bg-alt:#f6f7f9;--ink:#1d2330;--sub:#5d6575;--line:#e3e6ec;--card:#ffffff;--accent:#2457d6;
+--hero-bg:#ffffff;--hero-ink:#1d2330;--chip-bg:#eaf0fd;--chip-ink:#2457d6;--btn-bg:#2457d6;--btn-ink:#ffffff;
+--btn-shadow:0 2px 0 #183c97;--radius:10px;--radius-s:8px;--radius-btn:8px;--sticky-bg:#ffffff}
+.d-simple .hero{border-bottom:1px solid var(--line);text-align:left}
+.d-simple .hero h1{font-weight:700}
